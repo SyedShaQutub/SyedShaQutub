@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedShaQutub
-- 🌱 I’m a research associate currently working on uncertainty estimation in AI models to increase thier safety and reliability.
+- 🌱 I’m a research associate currently working on uncertainty estimation in AI models to increase their safety and reliability.
 
 - 📫 How to reach me qutub.ssq@gmail.com...
 
